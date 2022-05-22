@@ -1,0 +1,3 @@
+*.pyc
+input/scores/
+code/.ipynb_checkpoints
